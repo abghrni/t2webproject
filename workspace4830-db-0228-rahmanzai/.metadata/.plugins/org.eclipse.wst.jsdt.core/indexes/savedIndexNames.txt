@@ -1,7 +1,0 @@
-INDEX VERSION 1.4+/Users/ghafar/Desktop/workspace4830/EX3/workspace4830-db-0228-rahmanzai/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-2674296491.index
-2428620530.index
-2087520062.index
-1553152161.index
-2368609211.index
-836117486.index
